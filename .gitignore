@@ -29,3 +29,5 @@ node_modules
 
 *.p12
 test
+
+.DS_Store
